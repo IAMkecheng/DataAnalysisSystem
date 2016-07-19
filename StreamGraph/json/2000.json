@@ -1,0 +1,12 @@
+[
+{ "label":"Topology", "y": 14  },
+{ "label":"Hardware", "y": 8  },
+{ "label":"Rendering", "y": 6  },
+{ "label":"Virtual Reality", "y": 6  },
+{ "label":"Information Visualization", "y": 6  },
+{ "label":"Case Study", "y": 4  },
+{ "label":"Geometry", "y": 3  },
+{ "label":"Ray Tracing", "y": 3  },
+{ "label":"Data Sets", "y": 3  },
+{ "label":"Java", "y": 3  }
+]

@@ -1,0 +1,12 @@
+[
+{ "label":"Evaluation", "y": 15  },
+{ "label":"Data Visualization", "y": 8  },
+{ "label":"Interactive Visualization", "y": 7  },
+{ "label":"Trajectory", "y": 6  },
+{ "label":"Collaboration", "y": 6  },
+{ "label":"Earth", "y": 6  },
+{ "label":"Uncertainty", "y": 5  },
+{ "label":"Geometry", "y": 5  },
+{ "label":"Layout", "y": 5  },
+{ "label":"Uncertainty", "y": 4  }
+]

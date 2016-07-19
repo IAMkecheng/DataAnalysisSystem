@@ -1,0 +1,12 @@
+[
+{ "label":"Cognition", "y": 10  },
+{ "label":"Data Mining", "y": 10  },
+{ "label":"Geometry", "y": 9  },
+{ "label":"Histograms", "y": 8  },
+{ "label":"Interactive Visualization", "y": 6  },
+{ "label":"Layout", "y": 6  },
+{ "label":"Statistics", "y": 6  },
+{ "label":"Intelligence Analysis", "y": 5  },
+{ "label":"Displays", "y": 5  },
+{ "label":"Shape", "y": 4  }
+]

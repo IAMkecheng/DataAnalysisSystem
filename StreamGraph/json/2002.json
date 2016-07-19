@@ -1,0 +1,12 @@
+[
+{ "label":"Computer Graphics", "y": 11  },
+{ "label":"Rendering", "y": 9  },
+{ "label":"Data Visualization", "y": 6  },
+{ "label":"Diagrams", "y": 5  },
+{ "label":"Interactive Visualization", "y": 4  },
+{ "label":"Volume Rendering", "y": 4  },
+{ "label":"Internet", "y": 4  },
+{ "label":"Earth", "y": 3  },
+{ "label":"Information Visualization", "y": 3  },
+{ "label":"Texture Mapping", "y": 3  }
+]

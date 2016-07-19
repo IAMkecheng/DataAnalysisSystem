@@ -1,0 +1,12 @@
+[
+{ "label":"Trajectory", "y": 14  },
+{ "label":"Software", "y": 10  },
+{ "label":"Data Visualization", "y": 10  },
+{ "label":"Histograms", "y": 8  },
+{ "label":"Interpolation", "y": 8  },
+{ "label":"Tracking", "y": 8  },
+{ "label":"Semantics", "y": 6  },
+{ "label":"Taxonomy", "y": 6  },
+{ "label":"Encoding", "y": 5  },
+{ "label":"Data Visualization", "y": 5  }
+]

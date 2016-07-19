@@ -1,0 +1,12 @@
+[
+{ "label":"Animation", "y": 4  },
+{ "label":"Data Analysis", "y": 4  },
+{ "label":"Color", "y": 3  },
+{ "label":"Data Structures", "y": 3  },
+{ "label":"Teaching", "y": 3  },
+{ "label":"Anthropology", "y": 2  },
+{ "label":"Design Decisions", "y": 2  },
+{ "label":"Rendering", "y": 2  },
+{ "label":"Scientific Visualization", "y": 2  },
+{ "label":"Volumetric Data", "y": 2  }
+]

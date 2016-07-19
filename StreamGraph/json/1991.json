@@ -1,0 +1,12 @@
+[
+{ "label":"Scientific Visualization", "y": 4  },
+{ "label":"Parallel Architectures", "y": 3  },
+{ "label":"Rendering", "y": 3  },
+{ "label":"Software Tools", "y": 3  },
+{ "label":"3D Vector Fields", "y": 2  },
+{ "label":"Computational Fluid Dynamics", "y": 2  },
+{ "label":"Marching Cubes", "y": 2  },
+{ "label":"Supercomputers", "y": 2  },
+{ "label":"Volume Visualization", "y": 2  },
+{ "label":"2D Slices", "y": 1  }
+]

@@ -1,0 +1,12 @@
+[
+{ "label":"Graphics", "y": 9  },
+{ "label":"Layout", "y": 9  },
+{ "label":"Decision Making", "y": 8  },
+{ "label":"Interactive Visualization", "y": 7  },
+{ "label":"Topology", "y": 7  },
+{ "label":"Epidemics", "y": 6  },
+{ "label":"Data Visualization", "y": 6  },
+{ "label":"Histograms", "y": 5  },
+{ "label":"Layout", "y": 5  },
+{ "label":"Time Series", "y": 5  }
+]

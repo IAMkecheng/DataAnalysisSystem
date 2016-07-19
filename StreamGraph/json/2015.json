@@ -1,0 +1,12 @@
+[
+{ "label":"Context", "y": 19  },
+{ "label":"Uncertainty", "y": 18  },
+{ "label":"Correlation", "y": 17  },
+{ "label":"Time Series", "y": 15  },
+{ "label":"Color", "y": 14  },
+{ "label":"Clustering", "y": 9  },
+{ "label":"History", "y": 8  },
+{ "label":"Architecture", "y": 5  },
+{ "label":"", "y": 5  },
+{ "label":"", "y": 4  }
+]

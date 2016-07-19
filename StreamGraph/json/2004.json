@@ -1,0 +1,12 @@
+[
+{ "label":"Navigation", "y": 16  },
+{ "label":"Hardware", "y": 15  },
+{ "label":"Topology", "y": 11  },
+{ "label":"History", "y": 10  },
+{ "label":"Flow Visualization", "y": 9  },
+{ "label":"Surface Reconstruction", "y": 6  },
+{ "label":"Volume Rendering", "y": 5  },
+{ "label":"Art", "y": 5  },
+{ "label":"Lighting", "y": 5  },
+{ "label":"Information Visualization", "y": 4  }
+]

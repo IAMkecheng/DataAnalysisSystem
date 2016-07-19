@@ -1,0 +1,12 @@
+[
+{ "label":"Chromium", "y": 39  },
+{ "label":"Hardware", "y": 16  },
+{ "label":"Mesh Generation", "y": 14  },
+{ "label":"Feature Extraction", "y": 10  },
+{ "label":"Topology", "y": 10  },
+{ "label":"Data Visualization", "y": 9  },
+{ "label":"Graphics Hardware", "y": 8  },
+{ "label":"Transfer Functions", "y": 7  },
+{ "label":"Information Visualization", "y": 7  },
+{ "label":"Surface Reconstruction", "y": 6  }
+]

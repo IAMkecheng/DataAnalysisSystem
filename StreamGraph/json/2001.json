@@ -1,0 +1,12 @@
+[
+{ "label":"Hardware", "y": 9  },
+{ "label":"Transfer Functions", "y": 5  },
+{ "label":"Data Visualization", "y": 4  },
+{ "label":"Feature Extraction", "y": 4  },
+{ "label":"Volume Rendering", "y": 4  },
+{ "label":"Computed Tomography", "y": 3  },
+{ "label":"Flow Visualization", "y": 3  },
+{ "label":"Topology", "y": 3  },
+{ "label":"Unstructured Grid", "y": 3  },
+{ "label":"Data Mining", "y": 2  }
+]

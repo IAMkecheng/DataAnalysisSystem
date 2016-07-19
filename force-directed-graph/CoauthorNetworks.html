@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        #chart rect {
+            fill: white;
+        }
+        path.link {
+            fill: none;
+            stroke: #666;
+            stroke-width: 2px;
+        }
+
+        marker#licensing {
+            fill: lightgreen;
+        }
+
+        path.link.licensing {
+            stroke: lightgreen;
+        }
+
+        path.link.resolved {
+            stroke-dasharray: 0,2 1;
+        }
+
+        circle {
+            fill: #ccc;
+            stroke: #333;
+            stroke-width: 3px;
+        }
+
+        text {
+            font: 14px sans-serif;
+            pointer-events: none;
+        }
+
+        text.shadow {
+            stroke: #fff;
+            stroke-width: 4px;
+        }
+        .link {
+            stroke : #CCC;
+            stroke-width : 2;
+        }
+    </style>
+
+
+</head>
+<body>
+<div>
+<label style = "color: #959da6; font-family: 'Cabin', sans-serif; font-weight: 600;" for="checkboxGroup">Group?</label> <input id="checkboxGroup" type="checkbox" checked=checked />
+<input id="sliderMinLink" type="range" min="2" max="20" value="5"/>
+<label style = "color: #959da6; font-family: 'Cabin', sans-serif; font-weight: 600;" id="sliderLabelMinLink" for="sliderMinLink">
+    Min link value: 5
+</label>
+<input id="sliderMinNode" type="range" min="2" max="700" value="400"/>
+<label style = "color: #959da6; font-family: 'Cabin', sans-serif; font-weight: 600;" id="sliderLabelMinNode" for="sliderMinNode">
+    Min node value (labels): 400
+</label>
+</div>
+<div id="chart"></div>
+
+</body>
+</html>
+<script src="http://libs.useso.com/js/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="d3.js"></script>
+<script type="text/javascript" src="forceInABox.js"></script>
+<script type="text/javascript" src="getCoauthorNetworks.js"></script>
+<script type="text/javascript" src="netClustering.js">   </script>
+<script src="main.js" language="javascript" type="text/javascript"></script>

@@ -1,0 +1,12 @@
+[
+{ "label":"Interpolation", "y": 14  },
+{ "label":"Computational Fluid Dynamics", "y": 10  },
+{ "label":"Feature Extraction", "y": 8  },
+{ "label":"Surface Reconstruction", "y": 8  },
+{ "label":"Virtual Reality", "y": 7  },
+{ "label":"Rendering", "y": 5  },
+{ "label":"Topology", "y": 5  },
+{ "label":"Data Structures", "y": 5  },
+{ "label":"Information Visualization", "y": 4  },
+{ "label":"Ray Tracing", "y": 4  }
+]

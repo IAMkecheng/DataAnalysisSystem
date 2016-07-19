@@ -1,0 +1,12 @@
+[
+{ "label":"Algorithm", "y": 4  },
+{ "label":"Flow Simulation", "y": 4  },
+{ "label":"Animation", "y": 3  },
+{ "label":"Architecture", "y": 3  },
+{ "label":"Data Analysis", "y": 3  },
+{ "label":"Display", "y": 3  },
+{ "label":"Workstations", "y": 3  },
+{ "label":"Brain", "y": 2  },
+{ "label":"Convection", "y": 2  },
+{ "label":"Feature Extraction", "y": 2  }
+]

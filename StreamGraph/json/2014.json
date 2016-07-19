@@ -1,0 +1,12 @@
+[
+{ "label":"Twitter", "y": 12  },
+{ "label":"Trajectory", "y": 10  },
+{ "label":"Media", "y": 8  },
+{ "label":"Interaction", "y": 7  },
+{ "label":"Vectors", "y": 5  },
+{ "label":"Sport", "y": 5  },
+{ "label":"Tracking", "y": 4  },
+{ "label":"Context", "y": 3  },
+{ "label":"Layout", "y": 3  },
+{ "label":"Encoding", "y": 2  }
+]

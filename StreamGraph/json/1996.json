@@ -1,0 +1,12 @@
+[
+{ "label":"Graphics", "y": 10  },
+{ "label":"Scientific Visualization", "y": 8  },
+{ "label":"World Wide Web", "y": 8  },
+{ "label":"Data Visualization", "y": 5  },
+{ "label":"Scattering", "y": 5  },
+{ "label":"Volume Rendering", "y": 5  },
+{ "label":"Interpolation", "y": 4  },
+{ "label":"Interactive Visualization", "y": 4  },
+{ "label":"Vector Field", "y": 4  },
+{ "label":"Multivariate Data Visualization", "y": 4  }
+]

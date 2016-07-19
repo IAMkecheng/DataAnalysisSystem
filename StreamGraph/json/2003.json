@@ -1,0 +1,12 @@
+[
+{ "label":"Hardware", "y": 20  },
+{ "label":"Information Visualization", "y": 12  },
+{ "label":"Acceleration", "y": 8  },
+{ "label":"Direct Volume Rendering", "y": 7  },
+{ "label":"Graphics Hardware", "y": 7  },
+{ "label":"Volume Rendering", "y": 7  },
+{ "label":"Computer Displays", "y": 6  },
+{ "label":"Isosurfaces", "y": 6  },
+{ "label":"Transfer Functions", "y": 6  },
+{ "label":"Volume Visualization", "y": 6  }
+]

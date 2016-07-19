@@ -1,0 +1,12 @@
+[
+{ "label":"Decision Making", "y": 18  },
+{ "label":"Data Visualization", "y": 14  },
+{ "label":"Interpolation", "y": 9  },
+{ "label":"Color", "y": 9  },
+{ "label":"Uncertainty", "y": 7  },
+{ "label":"Emailtime", "y": 6  },
+{ "label":"Radial Visualization", "y": 5  },
+{ "label":"Machine Learning", "y": 4  },
+{ "label":"Semantics", "y": 4  },
+{ "label":"Algorithms", "y": 4  }
+]

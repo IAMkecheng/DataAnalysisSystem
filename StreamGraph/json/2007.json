@@ -1,0 +1,11 @@
+[
+{ "label":"Text Analysis", "y": 14  },
+{ "label":"Internet", "y": 13  },
+{ "label":"Navigation", "y": 12  },
+{ "label":"History", "y": 12  },
+{ "label":"Topology", "y": 12  },
+{ "label":"Hardware", "y": 10  },
+{ "label":"Animation", "y": 9  },
+{ "label":"Brain", "y": 7  },
+{ "label":"Taxonomy", "y": 7  }
+]

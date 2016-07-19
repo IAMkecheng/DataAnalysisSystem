@@ -1,0 +1,12 @@
+[
+{ "label":"Gpu", "y": 22  },
+{ "label":"Brain", "y": 12  },
+{ "label":"Scattering", "y": 11  },
+{ "label":"Collaboration", "y": 9  },
+{ "label":"Time Series", "y": 9  },
+{ "label":"Uncertainty", "y": 8  },
+{ "label":"Color", "y": 7  },
+{ "label":"Volume Rendering", "y": 7  },
+{ "label":"Context", "y": 4  },
+{ "label":"Shape", "y": 4  }
+]
